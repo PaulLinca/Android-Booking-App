@@ -1,2 +1,4 @@
 # Booked
-![](BookedImages/title.jpg)
+<p>
+    <img src="BookedImages/title.png" />
+</p>
